@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="logo.svg">
+   sodipodi:docname="load.svg">
   <defs
      id="defs4">
     <clipPath
@@ -30,18 +30,6 @@
          y="-219.9398"
          ry="0" />
     </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4959-3">
-      <rect
-         style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect4961-4"
-         width="824.28448"
-         height="674.78192"
-         x="1108.447"
-         y="-219.9398"
-         ry="0" />
-    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -50,11 +38,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="575.80625"
-     inkscape:cy="1710.9153"
+     inkscape:zoom="0.24748738"
+     inkscape:cx="1343.3829"
+     inkscape:cy="2435.4755"
      inkscape:document-units="px"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer5"
      showgrid="false"
      units="px"
      borderlayer="true"
@@ -162,6 +150,23 @@
          id="flowPara4793" /></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Background 1"
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:#c5b7ec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:100;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4200"
+       width="1254.387"
+       height="377.70999"
+       x="114.67778"
+       y="116.13861"
+       ry="0"
+       inkscape:export-filename="C:\Users\lilyxu\Desktop\load5.png"
+       inkscape:export-xdpi="145.35001"
+       inkscape:export-ydpi="145.35001" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Blank backing"
      style="display:none">
@@ -178,25 +183,25 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Pill"
-     style="display:inline">
-    <rect
-       style="display:inline;opacity:1;fill:#58006d;fill-opacity:1;fill-rule:evenodd;stroke:#100015;stroke-width:20;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4865-7"
-       width="1234.3873"
-       height="357.7103"
-       x="122.23798"
-       y="246.07591"
-       ry="178.85515"
-       inkscape:export-filename="C:\Users\lilyxu\Desktop\logo.png"
-       inkscape:export-xdpi="145.35001"
-       inkscape:export-ydpi="145.35001" />
-  </g>
+     style="display:inline" />
   <g
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Pill Top">
     <rect
-       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#58006d;fill-opacity:1;fill-rule:evenodd;stroke:#100015;stroke-width:20;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4865-7"
+       width="1234.3873"
+       height="357.7103"
+       x="124.6776"
+       y="-483.84875"
+       ry="178.85515"
+       inkscape:export-filename="C:\Users\lilyxu\Desktop\load5.png"
+       inkscape:export-xdpi="145.35001"
+       inkscape:export-ydpi="145.35001"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;opacity:1;fill:#58006d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4865"
        width="1234.3873"
        height="357.7103"
@@ -204,21 +209,65 @@
        y="22.879498"
        ry="171.18823"
        clip-path="url(#clipPath4959)"
-       transform="matrix(0.99999985,0,0,0.94413264,8.1417715,235.19473)"
-       inkscape:export-filename="C:\Users\lilyxu\Desktop\logo.png"
+       transform="matrix(0.99999985,0,0,-0.94413264,10.581382,494.72994)"
+       inkscape:export-filename="C:\Users\lilyxu\Desktop\load5.png"
        inkscape:export-xdpi="145.35001"
        inkscape:export-ydpi="145.35001" />
     <rect
-       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.71369076;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#58006d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.71369076;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4972"
-       width="402.32697"
+       width="398.74747"
+       height="337.63885"
+       x="731.31122"
+       y="-473.41159"
+       ry="0"
+       inkscape:export-filename="C:\Users\lilyxu\Desktop\load5.png"
+       inkscape:export-xdpi="145.35001"
+       inkscape:export-ydpi="145.35001"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;opacity:1;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.71369076;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4972-0"
+       width="313.595"
        height="337.996"
-       x="726.66602"
-       y="256.66101"
+       x="1055.4662"
+       y="-831.84485"
        ry="0"
        inkscape:export-filename="C:\Users\lilyxu\Desktop\logo.png"
        inkscape:export-xdpi="145.35001"
+       inkscape:export-ydpi="145.35001"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;opacity:1;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.71369076;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4972-0-3"
+       width="313.595"
+       height="337.996"
+       x="741.87128"
+       y="-831.84485"
+       ry="0"
+       inkscape:export-filename="C:\Users\lilyxu\Desktop\load3.png"
+       inkscape:export-xdpi="145.35001"
+       inkscape:export-ydpi="145.35001"
+       transform="scale(1,-1)" />
+    <path
+       style="display:inline;opacity:1;fill:#58006d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.71369076;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 428.27539 135.34961 L 428.27539 473.3457 L 741.87109 473.3457 L 1055.4668 473.3457 L 1055.4668 135.34961 L 741.87109 135.34961 L 428.27539 135.34961 z "
+       id="rect4972-0-7"
+       inkscape:export-filename="C:\Users\lilyxu\Desktop\load5.png"
+       inkscape:export-xdpi="145.35001"
        inkscape:export-ydpi="145.35001" />
+    <rect
+       style="display:inline;opacity:1;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.71369076;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4972-0-5"
+       width="313.595"
+       height="337.996"
+       x="114.6813"
+       y="-831.84485"
+       ry="0"
+       inkscape:export-filename="C:\Users\lilyxu\Desktop\logo.png"
+       inkscape:export-xdpi="145.35001"
+       inkscape:export-ydpi="145.35001"
+       transform="scale(1,-1)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -275,7 +324,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="Pill Text">
+     inkscape:label="Pill Text"
+     style="display:none">
     <path
        inkscape:connector-curvature="0"
        id="path5162"
@@ -332,8 +382,9 @@
        inkscape:export-ydpi="145.35001">
       <path
          d="m 916.36066,353.70181 0,-47.68066 15.05127,0 0,47.68066 48.12011,0 0,15.05127 -48.12011,0 0,47.68067 -15.05127,0 0,-47.68067 -48.01026,0 0,-15.05127 48.01026,0 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#58006d;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
-         id="path5184" />
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#58006d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path5184"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';letter-spacing:0px;word-spacing:0px;fill:#58006d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -343,8 +394,9 @@
        inkscape:export-ydpi="145.35001">
       <path
          d="m 916.36066,481.10901 0,-47.68067 15.05127,0 0,47.68067 48.12011,0 0,15.05127 -48.12011,0 0,47.68066 -15.05127,0 0,-47.68066 -48.01026,0 0,-15.05127 48.01026,0 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#58006d;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
-         id="path5181" />
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#58006d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path5181"
+         inkscape:connector-curvature="0" />
     </g>
     <text
        xml:space="preserve"
@@ -360,7 +412,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot5072"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion5074"><rect
            id="rect5076"
            width="1220.2643"
@@ -368,143 +420,4 @@
            x="-460.62955"
            y="814.45642" /></flowRegion><flowPara
          id="flowPara5078" /></flowRoot>  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer8"
-     inkscape:label="Back"
-     style="display:none">
-    <rect
-       style="display:inline;opacity:1;fill:#c5b7ec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:100;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4200-6"
-       width="1254.387"
-       height="377.70999"
-       x="169.94939"
-       y="911.14502"
-       ry="0"
-       inkscape:export-filename="C:\Users\lilyxu\Desktop\load6.png"
-       inkscape:export-xdpi="145.35001"
-       inkscape:export-ydpi="145.35001" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer5"
-     inkscape:label="Load 6"
-     style="display:none">
-    <g
-       id="g4226"
-       transform="translate(40,191.42856)"
-       inkscape:export-filename="C:\Users\lilyxu\Desktop\load6.png"
-       inkscape:export-xdpi="145.35001"
-       inkscape:export-ydpi="145.35001">
-      <rect
-         inkscape:export-ydpi="145.35001"
-         inkscape:export-xdpi="145.35001"
-         inkscape:export-filename="C:\Users\lilyxu\Desktop\load6.png"
-         ry="178.85515"
-         y="729.71631"
-         x="139.9492"
-         height="357.7103"
-         width="1234.3873"
-         id="rect4865-7-0"
-         style="display:inline;opacity:1;fill:#58006d;fill-opacity:1;fill-rule:evenodd;stroke:#100015;stroke-width:20;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         inkscape:export-ydpi="145.35001"
-         inkscape:export-xdpi="145.35001"
-         inkscape:export-filename="C:\Users\lilyxu\Desktop\load6.png"
-         transform="matrix(0.99999985,0,0,0.94413264,25.852981,718.8351)"
-         clip-path="url(#clipPath4959-3)"
-         ry="171.18823"
-         y="22.879498"
-         x="104.1631"
-         height="357.7103"
-         width="1234.3873"
-         id="rect4865-3"
-         style="display:inline;opacity:1;fill:#58006d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         inkscape:export-ydpi="145.35001"
-         inkscape:export-xdpi="145.35001"
-         inkscape:export-filename="C:\Users\lilyxu\Desktop\load6.png"
-         ry="0"
-         y="740.30139"
-         x="744.3772"
-         height="337.996"
-         width="402.32697"
-         id="rect4972-9"
-         style="display:inline;opacity:1;fill:#58006d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.71369076;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:export-ydpi="145.35001"
-         inkscape:export-xdpi="145.35001"
-         inkscape:export-filename="C:\Users\lilyxu\Desktop\load6.png"
-         d="m 447.87771,857.75966 -12.74414,9.77784 q -10.54687,-13.73291 -25.37841,-20.76416 -14.72168,-7.14112 -32.40967,-7.14112 -19.33594,0 -35.81543,9.33838 -16.47949,9.22852 -25.59815,24.93897 -9.00879,15.60058 -9.00879,35.15625 0,29.55318 20.21485,49.32858 20.3247,19.7754 51.19629,19.7754 33.94775,0 56.79931,-26.5869 l 12.74414,9.668 q -12.08496,15.3808 -30.2124,23.8403 -18.01758,8.3496 -40.31982,8.3496 -42.40723,0 -66.90674,-28.2348 -20.54443,-23.8404 -20.54443,-57.56841 0,-35.48584 24.8291,-59.65576 24.93896,-24.27978 62.40234,-24.27978 22.63184,0 40.86914,9.00879 18.23731,8.89892 29.88281,25.04882 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path5162-2"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:export-ydpi="145.35001"
-         inkscape:export-xdpi="145.35001"
-         inkscape:export-filename="C:\Users\lilyxu\Desktop\load6.png"
-         d="m 534.23025,866.76845 q 27.57572,0 45.70312,19.99512 16.4795,18.2373 16.4795,43.17623 0,25.0489 -17.4683,43.8355 -17.3584,18.6768 -44.71432,18.6768 -27.46582,0 -44.93408,-18.6768 -17.3584,-18.7866 -17.3584,-43.8355 0,-24.82906 16.47949,-43.06637 18.12745,-20.10498 45.81299,-20.10498 z m 0,15.05127 q -19.11621,0 -32.84912,14.17237 -13.73291,14.17236 -13.73291,34.27731 0,12.9639 6.26221,24.17 6.26221,11.206 16.91894,17.3584 10.65674,6.0424 23.40088,6.0424 12.74414,0 23.40092,-6.0424 10.6567,-6.1524 16.9189,-17.3584 6.2622,-11.2061 6.2622,-24.17 0,-20.10495 -13.8428,-34.27731 -13.7329,-14.17237 -32.73922,-14.17237 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path5164-1"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:export-ydpi="145.35001"
-         inkscape:export-xdpi="145.35001"
-         inkscape:export-filename="C:\Users\lilyxu\Desktop\load6.png"
-         d="m 622.88997,869.84462 15.4907,0 0,55.81058 q 0,20.4345 2.1972,28.125 3.2959,10.9863 12.5245,17.3584 9.3383,6.372 22.1923,6.372 12.854,0 21.753,-6.1523 9.0088,-6.2622 12.4145,-16.3696 2.3072,-6.9214 2.3072,-29.3335 l 0,-55.81058 15.7104,0 0,58.66698 q 0,24.7193 -5.8228,37.2437 -5.7128,12.5244 -17.3584,19.6655 -11.5356,7.0313 -29.0039,7.0313 -17.4682,0 -29.2236,-7.0313 -11.6455,-7.1411 -17.4683,-19.7754 -5.7128,-12.7441 -5.7128,-38.2324 l 0,-57.56838 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path5166-4"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:export-ydpi="145.35001"
-         inkscape:export-xdpi="145.35001"
-         inkscape:export-filename="C:\Users\lilyxu\Desktop\load6.png"
-         d="m 761.53737,869.84462 15.3809,0 0,21.42334 q 9.2285,-12.30468 20.4345,-18.34716 11.2061,-6.15235 24.3897,-6.15235 13.4033,0 23.7305,6.81153 10.437,6.81152 15.3808,18.34716 4.9439,11.53565 4.9439,35.92526 l 0,61.5235 -15.271,0 0,-57.0191 q 0,-20.65427 -1.7578,-27.57565 -2.7466,-11.86524 -10.3272,-17.79785 -7.5806,-6.04248 -19.7754,-6.04248 -13.9526,0 -25.0488,9.22851 -10.9863,9.22852 -14.502,22.85156 -2.1972,8.89891 -2.1972,32.51951 l 0,43.8355 -15.3809,0 0,-119.53128 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path5168-7"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:export-ydpi="145.35001"
-         inkscape:export-xdpi="145.35001"
-         inkscape:export-filename="C:\Users\lilyxu\Desktop\load6.png"
-         d="m 1124.0862,949.7152 12.9639,6.8116 q -6.3721,12.5244 -14.7217,20.2148 -8.3496,7.6904 -18.7866,11.7554 -10.437,3.9551 -23.6206,3.9551 -29.2237,0 -45.7032,-19.1163 -16.4795,-19.226 -16.4795,-43.396 0,-22.74166 13.9527,-40.53951 17.688,-22.63184 47.3511,-22.63184 30.5419,0 48.7793,23.18115 12.9638,16.36963 13.1835,40.8692 l -107.4462,0 q 0.4394,20.874 13.2934,34.2773 12.854,13.2935 31.7505,13.2935 9.1187,0 17.688,-3.1861 8.6792,-3.186 14.7217,-8.4595 6.0425,-5.2734 13.0737,-17.0288 z m 0,-32.18991 q -3.0762,-12.30469 -9.0088,-19.66553 -5.8227,-7.36084 -15.4907,-11.86523 -9.668,-4.5044 -20.3247,-4.5044 -17.5781,0 -30.2124,11.31592 -9.2285,8.23975 -13.9527,24.71924 l 88.9893,0 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path5170-9"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:export-ydpi="145.35001"
-         inkscape:export-xdpi="145.35001"
-         inkscape:export-filename="C:\Users\lilyxu\Desktop\load6.png"
-         d="m 1163.9666,869.84462 15.7104,0 0,17.46827 q 7.0313,-10.32715 14.8316,-15.38086 7.8003,-5.16358 16.2597,-5.16358 6.3721,0 13.6231,4.06494 l -8.02,12.96387 q -4.834,-2.0874 -8.1299,-2.0874 -7.6905,0 -14.8316,6.37207 -7.1411,6.26221 -10.8764,19.55566 -2.8565,10.21729 -2.8565,41.30861 l 0,40.4297 -15.7104,0 0,-119.53128 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path5172-0"
-         inkscape:connector-curvature="0" />
-      <g
-         inkscape:export-ydpi="145.35001"
-         inkscape:export-xdpi="145.35001"
-         inkscape:export-filename="C:\Users\lilyxu\Desktop\load6.png"
-         id="text4686-0-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         transform="translate(17.711211,483.64037)">
-        <path
-           id="path5184-1"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 916.36066,353.70181 0,-47.68066 15.05127,0 0,47.68066 48.12011,0 0,15.05127 -48.12011,0 0,47.68067 -15.05127,0 0,-47.68067 -48.01026,0 0,-15.05127 48.01026,0 z"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         inkscape:export-ydpi="145.35001"
-         inkscape:export-xdpi="145.35001"
-         inkscape:export-filename="C:\Users\lilyxu\Desktop\load6.png"
-         id="text4686-0-1-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         transform="translate(17.711211,483.64037)">
-        <path
-           id="path5181-2"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:225px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 916.36066,481.10901 0,-47.68067 15.05127,0 0,47.68067 48.12011,0 0,15.05127 -48.12011,0 0,47.68066 -15.05127,0 0,-47.68066 -48.01026,0 0,-15.05127 48.01026,0 z"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
-  </g>
 </svg>
