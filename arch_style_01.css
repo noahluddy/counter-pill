@@ -3,6 +3,7 @@ body {background-color: grey;}
 div {background-color: grey;}
 
 h3 {font-family: Georgia, serif;}
+h4 {font-family: "Trebuchet MS", Helvetica, sans-serif;}
 
 .center { 
 	margin-left: auto;
@@ -12,7 +13,30 @@ h3 {font-family: Georgia, serif;}
     text-align: center;
 }
 
+.dropdown-menu {
+	right: 0;
+	left: 0;
+	text-align: center;
+	width: 30%;
+	position: absolute;
+	top: 100%;
+	margin-left: 190px;
+}
+
+.btn {
+	width: 30%;
+}
+
+.dropdown {
+	position: relative;
+}
+
 #bar {
 	background: rgb(54,25,25);
 	background: rgba(54,25,25, 0.5);
 }
+
+#meds {
+
+}
+
