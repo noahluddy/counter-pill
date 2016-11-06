@@ -13,7 +13,7 @@ def render():
     <!doctype html>
     <html lang="en">
         <head>
-            <title>💊 Counter Pill</title>
+            <title>Counter</title>
             <style>
                 body {
                     background-color: rgb(225, 218, 245);
@@ -41,7 +41,7 @@ def render():
 
         <body>
             <div id="top-bar">
-                <a href="https://counter-pill.herokuapp.com"><img src="http://i.imgur.com/ANrnFJv.png" alt="Counter" height="75px"></a>
+                <img src="http://i.imgur.com/ANrnFJv.png" alt="Counter" height="75px">
             </div>
             <h2>Validate Your Medicine!</h2>
             <form action="/" method="post" enctype="multipart/form-data" id="formy">
@@ -120,7 +120,7 @@ def process_img():
 
         <body>
             <div id="top-bar">
-                <a href="https://counter-pill.herokuapp.com"><img src="http://i.imgur.com/ANrnFJv.png" alt="Counter" height="75px"></a>
+                <img src="http://i.imgur.com/ANrnFJv.png" alt="Counter" height="75px">
             </div>
             <br/>
             <img id="info" src=''' + url + '''/>
